@@ -1,0 +1,19 @@
+{
+  "name": "higher-functions",
+  "version": "1.0.0",
+  "description": "javascript higher functions with express and sequelize",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "author": "Mijinyawa Nuruddeen",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mysql2": "^2.3.3",
+    "nodemon": "^2.0.20",
+    "sequelize": "^6.23.1"
+  }
+}
