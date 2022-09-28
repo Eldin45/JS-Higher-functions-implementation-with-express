@@ -1,7 +1,7 @@
 export default  {
   HOST:'127.0.0.1',
   USER:"root",
-  DB:"sanaa_test",
+  DB:"enter your db name",
   PASSWORD:'',
   DIALECT:'mysql',
   pool:{
